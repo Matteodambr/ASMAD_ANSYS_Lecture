@@ -1,4 +1,5 @@
 # ASMAD_ANSYS_Lecture
+
 Repository with all materials for ASMAD STR seminar.
 
 Note:
@@ -9,3 +10,21 @@ Available models:
 1. Cantilever beam (+ comparison w/ analytical solution)
 2. Fixed-Fixed beam (+ comparison w/ analytical solution)
 3. Simplified spacecraft (BC examples, point- and distributed-mass, remote points, relevant structural analyses - modal - quasi-static - sine - random vibration - shock, retrieval of stress/deformations)
+
+
+/*
+ * Copyright © 2024 Matteo D'Ambrosio
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program. If not, see <https://www.gnu.org/licenses/>.
+ */
