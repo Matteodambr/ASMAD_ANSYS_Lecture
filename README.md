@@ -12,7 +12,10 @@ Available models:
 3. Simplified spacecraft (BC examples, point- and distributed-mass, remote points, relevant structural analyses - modal - quasi-static - sine - random vibration - shock, retrieval of stress/deformations)
 
 
-# Copyright © 2024 Matteo D'Ambrosio
+
+--
+
+Copyright © 2024 Matteo D'Ambrosio
 
 This program is free software: you can redistribute it and/or modify  
 it under the terms of the GNU General Public License as published by  
