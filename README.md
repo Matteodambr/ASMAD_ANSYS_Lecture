@@ -12,4 +12,4 @@ Available models:
 
 --
 
-Copyright © 2024 Matteo D'Ambrosio
+Copyright © 2024 Politecnico di Milano.
