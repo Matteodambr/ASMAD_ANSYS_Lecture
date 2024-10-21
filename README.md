@@ -1,10 +1,7 @@
-# ASMAD_ANSYS_Lecture
+# ASMAD STRUCTURES TUTORIALS
 
-Repository with all materials for ASMAD STR seminar.
-
-Note:
-- All models are saved without results to limit size of repository.
-- All models seen on the ASMAD STR slides can be found in this repository. The results have been produced with Ansys 2024 R1 Student Version, but newer versions of the software should have no problems opening the older models (Ansys is forward-compatible).
+This repository contains all materials used during the ASMAD STR seminar. The results are not saved to limit the size of the repository, but can be generated with Ansys 2024 R1 (or later, Ansys models are forward-compatible).
+Note that the provided examples are non-exhaustive, and are only though to serve as quick references when developing more complex models for the ASMAD projects. For additional help or information, contact (2024/2025; matteo.dambrosio@polimi.it or lucia.bianchi@polimi.it).
 
 Available models:
 1. Cantilever beam (+ comparison w/ analytical solution)
