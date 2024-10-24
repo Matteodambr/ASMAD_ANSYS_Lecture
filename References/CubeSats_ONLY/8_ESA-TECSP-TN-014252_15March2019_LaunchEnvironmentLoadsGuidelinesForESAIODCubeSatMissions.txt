@@ -1,1 +1,1 @@
-This document is ESA confidential and cannot be publicly disclosed. For access or information, contact matteo.dambrosio@polimi.it
+This document is ESA confidential and cannot be publicly disclosed. For access or information, contact matteo.dambrosio@polimi.it. This document is unnecessary if your mission is not a CubeSat.
